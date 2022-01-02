@@ -1,0 +1,12 @@
+*.iml
+.env
+.components.gen.js
+*.log
+sw.*
+.idea
+.nuxt
+.husky
+.output
+dist
+coverage
+node_modules
